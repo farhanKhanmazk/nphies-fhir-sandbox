@@ -5,7 +5,7 @@ NPHIES claim rejections cost KSA clinics and polyclinics millions in delayed rev
 This open-source microservice validates **HL7 FHIR R4** transaction bundles against Saudi Arabia's **NPHIES (`nphies-fs`)** rules prior to gateway submission and simulates payer adjudication responses (`ClaimResponse`, `CoverageEligibilityResponse`, and `OperationOutcome`).
 
 ## Live Demo & Interactive API Docs
-* **Swagger UI:** *(We will add your live URL here in Step 3)*
+* **Swagger UI:** [https://nphies-fhir-sandbox.onrender.com/swagger](https://nphies-fhir-sandbox.onrender.com/swagger)
 
 ## Architecture Flow (`$process-message`)
 
